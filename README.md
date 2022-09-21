@@ -19,4 +19,4 @@ Python 3.9 is used during development and following packages are required to run
 **Dateset**
 Dataset is private.
 
-**We would appreciate it if you used our code and consider citing our paper.**
+**We would appreciate it if you used our code and considered citing our paper.**
