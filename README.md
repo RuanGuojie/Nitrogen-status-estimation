@@ -17,6 +17,6 @@ Python 3.9 is used during development and following packages are required to run
 - PyGAD
 
 **Dateset**
-Dataset is private.
+is private.
 
 **We would appreciate it if you used our code and considered citing our paper.**
