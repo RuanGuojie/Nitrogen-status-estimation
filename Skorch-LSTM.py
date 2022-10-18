@@ -21,7 +21,7 @@ from sklearn_genetic.callbacks import LogbookSaver, ProgressBar
 from sklearn.metrics import mean_squared_error as MSE
 from sklearn.metrics import r2_score
 # read data
-dataset = pd.read_csv('N/AGB.csv')  # 更改数据
+dataset = pd.read_csv('N/AGB.csv')
 # randomly shuffled data
 dataset = dataset.sample(frac=1.0, random_state=42)
 data = dataset.reset_index(drop=True)
