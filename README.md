@@ -3,7 +3,7 @@ The source codes of our paper: Exploring the transferability of wheat nitrogen s
 
 **Tools Required**
 
-Python 3.9 is used during development and following packages are required to run the code provided:
+Python 3.9 was used during development and the following packages are required to run the codes provided:
 
 - torch
 - sklearn
